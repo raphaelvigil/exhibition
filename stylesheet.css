@@ -1,0 +1,19 @@
+h1 {
+	text-align:center
+}
+body {
+	background: linear-gradient(to right, rgb(255,195,0), rgb(255,40,0));
+}
+.grid {
+	display: grid;
+	grid-template-columns: 1fr 1fr 1fr;
+	grid-column-gap: 1px;
+	grid-template-row: 1fr 1fr;
+	grid-row-gap: 1px;
+}
+.top-left {
+	
+}
+.top-right {
+	
+}
