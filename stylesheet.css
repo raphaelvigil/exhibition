@@ -1,5 +1,8 @@
-h1 {
+.textmiddle {
 	text-align:center
+}
+.textright {
+	text-align:right
 }
 body {
 	background: linear-gradient(to right, rgb(255,195,0), rgb(255,40,0));
